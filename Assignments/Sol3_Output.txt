@@ -1,0 +1,8 @@
+Enter number of cities: 3
+Enter details (City, Temperature(°C), Humidity(%)):
+City 1: Mumbai 32 80
+City 2: Delhi 38 60
+City 3: Chennai 35 75
+Enter city name to search: Chennai
+Weather in Chennai: 35°C, 75% Humidity
+Data saved in "weather_data.txt"
