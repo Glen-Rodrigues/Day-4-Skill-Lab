@@ -1,0 +1,8 @@
+Enter number of orders: 3
+Enter details (Order ID, Customer Name, Product, Amount):
+Order 1: 301 Alice Laptop 60000
+Order 2: 302 Bob Mobile 50000
+Order 3: 303 Charlie Fridge 80000
+Enter Order ID to search: 302
+Order Found: Bob - Mobile - ₹50000
+Record saved in "Orders.txt"
