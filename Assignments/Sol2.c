@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 struct order
 {
     int order_id;
