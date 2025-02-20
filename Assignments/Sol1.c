@@ -42,6 +42,7 @@ void searchStudent (st s[], int n)
         {
             printf ("Student Found: %s, %s, Marks: %d\n", s[i].name, s[i].course, s[i].marks);
             flag = 0;
+            break;
         }
     }
     if (flag)
